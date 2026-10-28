@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pale Lantern</string>
+    <string name="cd_move_left">Move left</string>
+    <string name="cd_move_right">Move right</string>
+    <string name="cd_climb_up">Climb up</string>
+    <string name="cd_climb_down">Climb down</string>
+    <string name="cd_jump">Jump</string>
+    <string name="cd_grab">Grab, push, or pull</string>
+    <string name="cd_flare_lantern">Flare lantern light</string>
+    <string name="cd_change_boy">Change boy character outfit</string>
+    <string name="cd_next_level">Switch to higher level</string>
+    <string name="cd_restart_checkpoint">Restart from checkpoint</string>
+    <string name="cd_toggle_audio">Toggle ambient sound</string>
+    <string name="cd_reset_level">Restart current level</string>
+    <string name="cd_game_canvas">Pale Lantern game world</string>
+</resources>

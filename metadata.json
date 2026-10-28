@@ -1,0 +1,6 @@
+{
+  "name": "Pale Lantern",
+  "description": "A dark, quiet 2D atmospheric puzzle-platformer where a small lantern-keeper child navigates a drowned world toward home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
